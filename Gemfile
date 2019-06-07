@@ -8,6 +8,7 @@ gem 'rails', '~> 5.2.3'
 
 gem 'devise'
 gem 'devise-bootstrap-views'
+gem 'stock_quote'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
